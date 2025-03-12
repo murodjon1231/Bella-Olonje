@@ -17,7 +17,7 @@ const Main = () => {
                         <a href="#download" className="btn-secondary">App store</a>
                     </div>
                     <div className="app-showcase">
-                        <img src={heroImage} alt="App Showcase" />
+                        <img src={heroImage} alt="" />
                     </div>
                 </div>
             </section>
@@ -46,13 +46,13 @@ const Main = () => {
                             <p>Shop for your favorite meals or drinks and enjoy while doing it.</p>
                         </div>
                         <div className="app-screenshot">
-                            <img src={appScreenshot2} alt="Explore varieties screen" />
+                            <img src={appScreenshot2} alt="" />
                         </div>
                     </div>
 
                     <div className="app-feature">
                         <div className="app-screenshot">
-                            <img src={appScreenshot3} alt="Checkout screen" />
+                            <img src={appScreenshot3} alt="" />
                         </div>
                         <div className="feature-text">
                             <span className="feature-label">Checkout</span>

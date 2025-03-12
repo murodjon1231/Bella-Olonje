@@ -53,10 +53,11 @@
   }
   
   .hero {
-    background-image: url('..assets/hero-bg.jpg');
+    /* background-image: url('/hero-bg.svg'); */
     width: 100%;
-    background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     text-align: center;
     padding: 150px 0 50px;
     position: relative;
